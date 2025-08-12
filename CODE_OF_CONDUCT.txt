@@ -1,0 +1,2 @@
+I have included a CODE_OF_CONDUCT file in the repository to define standards for behavior and communication within the community.
+It promotes respectful collaboration and ensures that the project remains a welcoming environment for contributors from diverse backgrounds.
